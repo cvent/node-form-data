@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "async": "^1.2.1",
-    "combined-stream": "^1.0.3",
+    "combined-stream": "^1.0.8",
     "mime-types": "^2.1.1"
   },
   "license": "MIT",
