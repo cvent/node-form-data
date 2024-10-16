@@ -17,7 +17,7 @@
   "dependencies": {
     "async": "^1.2.1",
     "combined-stream": "^1.0.3",
-    "mime-types": "^2.1.1"
+    "mime-types": "^2.1.35"
   },
   "license": "MIT",
   "devDependencies": {
