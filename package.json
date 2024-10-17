@@ -12,7 +12,7 @@
     "test": "node test/run.js"
   },
   "engines": {
-    "node": ">= 0.10"
+    "node": ">= 20.18.0"
   },
   "dependencies": {
     "async": "^1.2.1",
